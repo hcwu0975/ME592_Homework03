@@ -6,3 +6,4 @@ File Homework03_V8_MIMO.ipynb, Homework03_V8_MISO_PV.ipynb, and Homework03_V8_MI
 File Homework03_V9_MIMO_errorfunc.ipynb applied different error function in the model and do the comparison.
 
 Dataset:
+rsfmeasureddata2011.csv and rsfweatherdata2011.csv
